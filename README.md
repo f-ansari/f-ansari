@@ -36,7 +36,7 @@
 ***
 
 <a href="https://twitter.com/simplyfaryal"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=125 alt="Twitter badge"></a></p>
-<img src="assets/twitter_QR.png" height=300>
+<img src="assets/twitter_QR.PNG" height=300>
 
 
 
