@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on ... we will see about that
 - 🤔 I’m looking for help with error handling
-- 💬 Ask me about anything! I like talking 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faryalansari/)
+- 💬 Ask me about anything! I like talking
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like coffee and IronMan 
 
