@@ -34,7 +34,7 @@
 
 ***
 
-# Need a Friend in the tech World? Let's Connect!
+# Need a Friend in the Tech World? Let's Connect!
 <a href="https://www.instagram.com/simplyfaryal/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=125 alt="Instagram badge"> 
 
 <img src="assets/instagram_QR.jpg" height=300>
