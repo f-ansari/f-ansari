@@ -4,12 +4,12 @@
 
 ## Hi! My name is in the banner. To pronounce it, it's like you are going "far" with the southern "y'all".
 
-- 🔭 I’m currently working on InteriorCafé
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on ... we will see about that
-- 🤔 I’m looking for help with error handling
-- 💬 Ask me about anything! I like talking
 - 😄 Pronouns: She/Her
+- 👩‍💻 I’m looking for a job as a Software Engineer
+- 🌱 I’m currently learning Python/ TypeScript 
+- 🤔 I’m looking for help with error handling
+- 🔭 I’m currently working on Portfolio
+- 💬 Ask me about anything! I like talking
 - ⚡ Fun fact: I like coffee and IronMan 
 
 ***
